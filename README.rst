@@ -13,8 +13,9 @@ Opioid administration
 Generalized Model
 ===========
 
-Pid5
-
+Pid 5
 --------------------------
+Total administration events 120
 
 .. image:: Generalized_model/pid5/test.png
+	:align: right
