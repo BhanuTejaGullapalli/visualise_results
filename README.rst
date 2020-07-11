@@ -257,3 +257,18 @@ Confusion Matrix
 
 .. image:: Generalized_model/pid36/unnormalized_confusion_matrix.png
 	:align: right
+
+
+
+Final Confusion Matrix
+===========
+
+
+--------------------------
+
+.. image:: Generalized_model/normalized_confusion_matrix.png
+	:align: right
+
+
+.. image:: Generalized_model/unnormalized_confusion_matrix.png
+	:align: right
