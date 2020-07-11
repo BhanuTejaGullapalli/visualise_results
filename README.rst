@@ -4,19 +4,42 @@ Visualise Results
 
 
 ------------------
-Opioid administration
+Opioid administration - Generalized Model
 ------------------
 .. contents:: Table of Contents
    :local:
    :depth: 1
 
 
-Generalized Model
+Pid 5
 ===========
 
 Pid 5
 --------------------------
-Total administration events 120
 
-.. image:: Generalized_model/pid5/test.png
+
+.. image:: Generalized_model/pid5/5_0.png
+	:align: right
+
+.. image:: Generalized_model/pid5/5_1.png
+	:align: right
+
+.. image:: Generalized_model/pid5/5_2.png
+	:align: right
+
+
+Pid 6
+===========
+
+Pid 6
+--------------------------
+
+
+.. image:: Generalized_model/pid6/6_0.png
+	:align: right
+
+.. image:: Generalized_model/pid6/6_1.png
+	:align: right
+
+.. image:: Generalized_model/pid6/6_2.png
 	:align: right
