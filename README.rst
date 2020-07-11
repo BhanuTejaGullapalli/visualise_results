@@ -8,7 +8,7 @@ Opioid administration - Generalized Model
 ------------------
 .. contents:: Table of Contents
    :local:
-   :depth: 1
+   :depth: 2
 
 
 Pid 5
