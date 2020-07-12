@@ -260,7 +260,7 @@ Confusion Matrix
 
 
 
-Final Confusion Matrix
+Final Confusion Matrix / ROC plot
 ===========
 
 
@@ -271,4 +271,9 @@ Final Confusion Matrix
 
 
 .. image:: Generalized_model/unnormalized_confusion_matrix.png
+	:align: right
+
+
+
+.. image:: Generalized_model/ROC_all.png
 	:align: right
