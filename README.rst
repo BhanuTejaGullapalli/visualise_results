@@ -277,3 +277,12 @@ Final Confusion Matrix / ROC plot
 
 .. image:: Generalized_model/ROC_all.png
 	:align: right
+
+
+Miscellaneous
+===========
+
+--------------------------
+
+.. image:: Generalized_model/barplot_series_len.png
+	:align: right
