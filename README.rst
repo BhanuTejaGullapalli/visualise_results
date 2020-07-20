@@ -11,6 +11,16 @@ Opioid administration - Generalized Model
    :depth: 2
 
 
+General Information
+===========
+
+.. image:: Generalized_model/drug_type_data.png
+	:align: right
+
+.. image:: Generalized_model/subject_drug_data.png
+	:align: right
+
+
 Pid 5
 ===========
 
