@@ -18,7 +18,8 @@ General IV Information
 	:align: right
 
 .. image:: Generalized_model/subject_drug_data.png
-	:align: left
+	:align: right
+
 
 `back to top <#top>`_
 
