@@ -11,7 +11,7 @@ Opioid administration - Generalized Model
    :depth: 2
 
 
-General Information
+General IV Information
 ===========
 
 .. image:: Generalized_model/drug_type_data.png
