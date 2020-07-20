@@ -55,6 +55,9 @@ Prediction plots
 .. image:: Generalized_model/pid5/5_8.png
 	:align: right
 
+`back to top <#top>`_
+
+
 Confusion Matrix
 --------------------------
 
