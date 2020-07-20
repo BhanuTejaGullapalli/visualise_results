@@ -97,6 +97,7 @@ Prediction plots
 .. image:: Generalized_model/pid6/6_5.png
 	:align: right
 
+`back to top <#top>`_
 
 Confusion Matrix
 --------------------------
@@ -109,6 +110,7 @@ Confusion Matrix
 	:align: right
 
 
+`back to top <#top>`_
 
 Pid 7
 ===========
@@ -132,6 +134,7 @@ Prediction plots
 	:align: right
 
 
+`back to top <#top>`_
 
 
 Confusion Matrix
@@ -144,6 +147,8 @@ Confusion Matrix
 .. image:: Generalized_model/pid7/unnormalized_confusion_matrix.png
 	:align: right
 
+
+`back to top <#top>`_
 
 
 Pid 8
@@ -168,6 +173,7 @@ Prediction plots
 	:align: right
 
 
+`back to top <#top>`_
 
 
 Confusion Matrix
@@ -180,6 +186,8 @@ Confusion Matrix
 .. image:: Generalized_model/pid8/unnormalized_confusion_matrix.png
 	:align: right
 
+
+`back to top <#top>`_
 
 Pid 34
 ===========
@@ -196,6 +204,7 @@ Prediction plots
 .. image:: Generalized_model/pid34/34_2.png
 	:align: right
 
+`back to top <#top>`_
 
 
 
@@ -212,6 +221,8 @@ Confusion Matrix
 	:align: right
 
 
+`back to top <#top>`_
+
 Pid 35
 ===========
 Prediction plots
@@ -227,7 +238,7 @@ Prediction plots
 .. image:: Generalized_model/pid35/35_2.png
 	:align: right
 
-
+`back to top <#top>`_
 
 
 
@@ -241,6 +252,9 @@ Confusion Matrix
 
 .. image:: Generalized_model/pid35/unnormalized_confusion_matrix.png
 	:align: right
+
+
+`back to top <#top>`_
 
 
 
@@ -263,6 +277,7 @@ Prediction plots
 	:align: right
 
 
+`back to top <#top>`_
 
 
 
@@ -277,6 +292,7 @@ Confusion Matrix
 	:align: right
 
 
+`back to top <#top>`_
 
 Final Confusion Matrix / ROC plot
 ===========
@@ -297,6 +313,9 @@ Final Confusion Matrix / ROC plot
 	:align: right
 
 
+
+`back to top <#top>`_
+
 Miscellaneous
 ===========
 
@@ -304,3 +323,6 @@ Miscellaneous
 
 .. image:: Generalized_model/barplot_series_len.png
 	:align: right
+
+
+`back to top <#top>`_
