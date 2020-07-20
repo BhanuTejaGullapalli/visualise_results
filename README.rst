@@ -1,7 +1,7 @@
 ===================
 Visualise Results
 ===================
-
+.. _top:
 
 ------------------
 Opioid administration - Generalized Model
@@ -65,6 +65,8 @@ Confusion Matrix
 .. image:: Generalized_model/pid5/unnormalized_confusion_matrix.png
 	:align: right
 
+
+`back to top <#top>`_
 Pid 6
 ===========
 Prediction plots
