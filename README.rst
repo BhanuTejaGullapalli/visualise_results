@@ -18,7 +18,7 @@ General Information
 	:align: right
 
 .. image:: Generalized_model/subject_drug_data.png
-	:align: right
+	:align: left
 
 
 Pid 5
