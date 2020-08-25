@@ -288,7 +288,7 @@ Pid 10
 Intepretation	 plots
 --------------------------
 
-.. image:: Generalized_model/pid10/10_4.png
+.. image:: Generalized_model/pid10/10_7.png
 	:align: right
 
 .. image:: Generalized_model/pid10/10_8.png
