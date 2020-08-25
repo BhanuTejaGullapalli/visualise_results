@@ -282,6 +282,21 @@ Prediction plots
 
 `back to top <#top>`_
 
+
+
+Confusion Matrix
+--------------------------
+
+.. image:: Generalized_model/pid36/normalized_confusion_matrix.png
+	:align: right
+
+
+.. image:: Generalized_model/pid36/unnormalized_confusion_matrix.png
+	:align: right
+
+
+`back to top <#top>`_
+
 Pid 10
 ===========
 
@@ -295,19 +310,6 @@ Intepretation	 plots
 	:align: right
 
 MAE 26 min
-
-`back to top <#top>`_
-
-Confusion Matrix
---------------------------
-
-.. image:: Generalized_model/pid36/normalized_confusion_matrix.png
-	:align: right
-
-
-.. image:: Generalized_model/pid36/unnormalized_confusion_matrix.png
-	:align: right
-
 
 `back to top <#top>`_
 
