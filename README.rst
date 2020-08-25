@@ -294,6 +294,8 @@ Intepretation	 plots
 .. image:: Generalized_model/pid10/10_8.png
 	:align: right
 
+MAE 26 min
+
 `back to top <#top>`_
 
 Confusion Matrix
