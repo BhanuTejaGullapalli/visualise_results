@@ -346,12 +346,15 @@ ____
 
 .. image:: Generalized_model/pid23/23_24.png
 	:align: right
-***
+____
+
 .. image:: Generalized_model/pid23/23_13.png
 	:align: right
+____
 
 .. image:: Generalized_model/pid23/23_10.png
 	:align: right
+____
 
 MAE 22 min
 
