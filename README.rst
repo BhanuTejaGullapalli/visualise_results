@@ -282,7 +282,16 @@ Prediction plots
 
 `back to top <#top>`_
 
+Pid 10
+===========
 
+Intepretation	 plots
+--------------------------
+
+.. image:: Generalized_model/pid10/10_8.pdf
+	:align: right
+
+`back to top <#top>`_
 
 Confusion Matrix
 --------------------------
