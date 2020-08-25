@@ -313,6 +313,48 @@ MAE 26 min
 
 `back to top <#top>`_
 
+Pid 12
+===========
+
+Intepretation	 plots
+--------------------------
+
+.. image:: Generalized_model/pid12/12_0.png
+	:align: right
+
+.. image:: Generalized_model/pid12/12_13.png
+	:align: right
+
+.. image:: Generalized_model/pid12/12_7.png
+	:align: right
+
+MAE 29 min
+
+`back to top <#top>`_
+
+
+Pid 23
+===========
+
+Intepretation	 plots
+--------------------------
+
+.. image:: Generalized_model/pid23/23_5.png
+	:align: right
+
+.. image:: Generalized_model/pid23/23_24.png
+	:align: right
+
+.. image:: Generalized_model/pid23/23_13.png
+	:align: right
+
+.. image:: Generalized_model/pid23/23_10.png
+	:align: right
+
+MAE 22 min
+
+`back to top <#top>`_
+
 Final Confusion Matrix / ROC plot
 ===========
 
