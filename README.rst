@@ -341,10 +341,10 @@ Intepretation	 plots
 
 .. image:: Generalized_model/pid23/23_5.png
 	:align: right
-
+***
 .. image:: Generalized_model/pid23/23_24.png
 	:align: right
-
+***
 .. image:: Generalized_model/pid23/23_13.png
 	:align: right
 
