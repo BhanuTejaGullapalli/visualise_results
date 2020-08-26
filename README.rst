@@ -300,6 +300,21 @@ Confusion Matrix
 Pid 10
 ===========
 
+Prediction plots
+--------------------------
+
+
+.. image:: Generalized_model/pid10/10_day0.png
+	:align: right
+
+.. image:: Generalized_model/pid10/10_day1.png
+	:align: right
+
+
+
+`back to top <#top>`_
+
+
 Intepretation	 plots
 --------------------------
 
