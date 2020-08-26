@@ -314,6 +314,18 @@ Prediction plots
 
 `back to top <#top>`_
 
+Confusion Matrix
+--------------------------
+
+.. image:: Generalized_model/pid10/normalized_confusion_matrix.png
+	:align: right
+
+
+.. image:: Generalized_model/pid10/unnormalized_confusion_matrix.png
+	:align: right
+
+
+`back to top <#top>`_
 
 Intepretation	 plots
 --------------------------
@@ -344,6 +356,20 @@ Prediction plots
 
 
 `back to top <#top>`_
+
+Confusion Matrix
+--------------------------
+
+.. image:: Generalized_model/pid12/normalized_confusion_matrix.png
+	:align: right
+
+
+.. image:: Generalized_model/pid12/unnormalized_confusion_matrix.png
+	:align: right
+
+
+`back to top <#top>`_
+
 
 Intepretation	 plots
 --------------------------
@@ -381,6 +407,19 @@ Prediction plots
 
 .. image:: Generalized_model/pid23/23_day3.png
 	:align: right
+
+`back to top <#top>`_
+
+Confusion Matrix
+--------------------------
+
+.. image:: Generalized_model/pid23/normalized_confusion_matrix.png
+	:align: right
+
+
+.. image:: Generalized_model/pid23/unnormalized_confusion_matrix.png
+	:align: right
+
 
 `back to top <#top>`_
 
@@ -427,6 +466,18 @@ Prediction plots
 
 `back to top <#top>`_
 
+Confusion Matrix
+--------------------------
+
+.. image:: Generalized_model/pid24/normalized_confusion_matrix.png
+	:align: right
+
+
+.. image:: Generalized_model/pid24/unnormalized_confusion_matrix.png
+	:align: right
+
+
+`back to top <#top>`_
 
 Intepretation	 plots
 --------------------------
@@ -463,6 +514,19 @@ Prediction plots
 .. image:: Generalized_model/pid25/25_day2.png
 	:align: right
 
+
+
+`back to top <#top>`_
+
+Confusion Matrix
+--------------------------
+
+.. image:: Generalized_model/pid25/normalized_confusion_matrix.png
+	:align: right
+
+
+.. image:: Generalized_model/pid25/unnormalized_confusion_matrix.png
+	:align: right
 
 
 `back to top <#top>`_
@@ -511,6 +575,19 @@ Prediction plots
 
 `back to top <#top>`_
 
+Confusion Matrix
+--------------------------
+
+.. image:: Generalized_model/pid32/normalized_confusion_matrix.png
+	:align: right
+
+
+.. image:: Generalized_model/pid32/unnormalized_confusion_matrix.png
+	:align: right
+
+
+`back to top <#top>`_
+
 Intepretation	 plots
 --------------------------
 
@@ -537,6 +614,19 @@ Prediction plots
 
 
 .. image:: Generalized_model/pid37/37_day0.png
+	:align: right
+
+
+`back to top <#top>`_
+
+Confusion Matrix
+--------------------------
+
+.. image:: Generalized_model/pid37/normalized_confusion_matrix.png
+	:align: right
+
+
+.. image:: Generalized_model/pid37/unnormalized_confusion_matrix.png
 	:align: right
 
 
