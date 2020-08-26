@@ -331,6 +331,20 @@ MAE 26 min
 Pid 12
 ===========
 
+Prediction plots
+--------------------------
+
+
+.. image:: Generalized_model/pid12/12_day1.png
+	:align: right
+
+.. image:: Generalized_model/pid12/12_day2.png
+	:align: right
+
+
+
+`back to top <#top>`_
+
 Intepretation	 plots
 --------------------------
 
@@ -350,6 +364,26 @@ MAE 29 min
 
 Pid 23
 ===========
+
+
+Prediction plots
+--------------------------
+
+
+.. image:: Generalized_model/pid23/23_day0.png
+	:align: right
+
+.. image:: Generalized_model/pid23/23_day1.png
+	:align: right
+
+.. image:: Generalized_model/pid23/23_day2.png
+	:align: right
+
+.. image:: Generalized_model/pid23/23_day3.png
+	:align: right
+
+`back to top <#top>`_
+
 
 Intepretation	 plots
 --------------------------
@@ -379,6 +413,21 @@ MAE 22 min
 Pid 24
 ===========
 
+Prediction plots
+--------------------------
+
+
+.. image:: Generalized_model/pid24/24_day1.png
+	:align: right
+
+.. image:: Generalized_model/pid24/24_day2.png
+	:align: right
+
+
+
+`back to top <#top>`_
+
+
 Intepretation	 plots
 --------------------------
 
@@ -400,6 +449,23 @@ MAE 21 min
 
 Pid 25
 ===========
+
+Prediction plots
+--------------------------
+
+
+.. image:: Generalized_model/pid25/25_day0.png
+	:align: right
+
+.. image:: Generalized_model/pid25/25_day1.png
+	:align: right
+
+.. image:: Generalized_model/pid25/25_day2.png
+	:align: right
+
+
+
+`back to top <#top>`_
 
 Intepretation	 plots
 --------------------------
@@ -428,6 +494,23 @@ MAE 15 min
 Pid 32
 ===========
 
+Prediction plots
+--------------------------
+
+
+.. image:: Generalized_model/pid32/32_day0.png
+	:align: right
+
+.. image:: Generalized_model/pid32/32_day1.png
+	:align: right
+
+.. image:: Generalized_model/pid32/32_day2.png
+	:align: right
+
+
+
+`back to top <#top>`_
+
 Intepretation	 plots
 --------------------------
 
@@ -448,6 +531,16 @@ MAE 23 min
 
 Pid 37
 ===========
+
+Prediction plots
+--------------------------
+
+
+.. image:: Generalized_model/pid37/37_day0.png
+	:align: right
+
+
+`back to top <#top>`_
 
 Intepretation	 plots
 --------------------------
