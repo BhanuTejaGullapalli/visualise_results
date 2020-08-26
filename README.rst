@@ -381,6 +381,34 @@ MAE 21 min
 
 `back to top <#top>`_
 
+
+
+Pid 25
+===========
+
+Intepretation	 plots
+--------------------------
+
+.. image:: Generalized_model/pid25/25_10.png
+	:align: right
+
+____
+
+.. image:: Generalized_model/pid25/25_8.png
+	:align: right
+
+____
+
+.. image:: Generalized_model/pid25/25_6.png
+	:align: right
+
+
+
+
+MAE 21 min
+
+`back to top <#top>`_
+
 Final Confusion Matrix / ROC plot
 ===========
 
