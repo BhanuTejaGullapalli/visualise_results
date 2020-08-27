@@ -330,13 +330,16 @@ Confusion Matrix
 Intepretation	 plots
 --------------------------
 
-.. image:: Generalized_model/pid10/10_7.png
+.. image:: Generalized_model/pid10/10_6.png
+	:align: right
+
+.. image:: Generalized_model/pid10/10_5.png
 	:align: right
 
 .. image:: Generalized_model/pid10/10_8.png
 	:align: right
 
-MAE 26 min
+MAE 30 min, Random MAE 21 min
 
 `back to top <#top>`_
 
@@ -377,13 +380,12 @@ Intepretation	 plots
 .. image:: Generalized_model/pid12/12_0.png
 	:align: right
 
-.. image:: Generalized_model/pid12/12_13.png
+.. image:: Generalized_model/pid12/12_11.png
 	:align: right
 
-.. image:: Generalized_model/pid12/12_7.png
-	:align: right
 
-MAE 29 min
+
+MAE 16 min, Random MAE 28 min
 
 `back to top <#top>`_
 
@@ -436,15 +438,15 @@ ____
 	:align: right
 ____
 
-.. image:: Generalized_model/pid23/23_13.png
+.. image:: Generalized_model/pid23/23_43.png
 	:align: right
 ____
 
-.. image:: Generalized_model/pid23/23_10.png
+.. image:: Generalized_model/pid23/23_25.png
 	:align: right
 ____
 
-MAE 22 min
+MAE 14 min, Random 28 min
 
 `back to top <#top>`_
 
@@ -482,6 +484,13 @@ Confusion Matrix
 Intepretation	 plots
 --------------------------
 
+
+
+.. image:: Generalized_model/pid24/24_1.png
+	:align: right
+
+____
+
 .. image:: Generalized_model/pid24/24_6.png
 	:align: right
 
@@ -492,7 +501,7 @@ ____
 
 
 
-MAE 21 min
+MAE 11 min , Random MAE 32 min
 
 `back to top <#top>`_
 
@@ -534,7 +543,7 @@ Confusion Matrix
 Intepretation	 plots
 --------------------------
 
-.. image:: Generalized_model/pid25/25_10.png
+.. image:: Generalized_model/pid25/25_3.png
 	:align: right
 
 ____
@@ -544,13 +553,13 @@ ____
 
 ____
 
-.. image:: Generalized_model/pid25/25_6.png
+.. image:: Generalized_model/pid25/25_10.png
 	:align: right
 
 
 
 
-MAE 15 min
+MAE 22 min, Random MAE 30 min
 
 `back to top <#top>`_
 
@@ -591,17 +600,17 @@ Confusion Matrix
 Intepretation	 plots
 --------------------------
 
-.. image:: Generalized_model/pid32/32_4.png
+.. image:: Generalized_model/pid32/32_6.png
 	:align: right
 
 ____
 
-.. image:: Generalized_model/pid32/32_6.png
+.. image:: Generalized_model/pid32/32_8.png
 	:align: right
 
 
 
-MAE 23 min
+MAE 23 min, Random MAE 22 min
 
 `back to top <#top>`_
 
@@ -635,17 +644,17 @@ Confusion Matrix
 Intepretation	 plots
 --------------------------
 
-.. image:: Generalized_model/pid37/37_3.png
+.. image:: Generalized_model/pid37/37_1.png
 	:align: right
 
 ____
 
-.. image:: Generalized_model/pid37/37_4.png
+.. image:: Generalized_model/pid37/37_3.png
 	:align: right
 
 
 
-MAE 31 min
+MAE 12 min, Random MAE 30 min
 
 `back to top <#top>`_
 
