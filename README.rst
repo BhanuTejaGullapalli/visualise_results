@@ -339,7 +339,7 @@ Intepretation	 plots
 .. image:: Generalized_model/pid10/10_8.png
 	:align: right
 
-MAE 30 min, Random MAE 21 min
+MAE 30 min, Random MAE 26 min
 
 `back to top <#top>`_
 
@@ -385,7 +385,7 @@ Intepretation	 plots
 
 
 
-MAE 16 min, Random MAE 28 min
+MAE 16 min, Random MAE 33 min
 
 `back to top <#top>`_
 
@@ -444,9 +444,8 @@ ____
 
 .. image:: Generalized_model/pid23/23_25.png
 	:align: right
-____
 
-MAE 14 min, Random 28 min
+MAE 14 min, Random 32 min
 
 `back to top <#top>`_
 
@@ -501,7 +500,7 @@ ____
 
 
 
-MAE 11 min , Random MAE 32 min
+MAE 11 min , Random MAE 36 min
 
 `back to top <#top>`_
 
@@ -559,7 +558,7 @@ ____
 
 
 
-MAE 22 min, Random MAE 30 min
+MAE 22 min, Random MAE 35 min
 
 `back to top <#top>`_
 
@@ -610,7 +609,7 @@ ____
 
 
 
-MAE 23 min, Random MAE 22 min
+MAE 23 min, Random MAE 27 min
 
 `back to top <#top>`_
 
@@ -654,7 +653,7 @@ ____
 
 
 
-MAE 12 min, Random MAE 30 min
+MAE 12 min, Random MAE 36 min
 
 `back to top <#top>`_
 
