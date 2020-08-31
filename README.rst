@@ -10,6 +10,15 @@ Opioid administration - Generalized Model
    :local:
    :depth: 2
 
+Model
+===========
+
+.. image:: Generalized_model/lstm_figure.png
+	:align: right
+
+
+
+`back to top <#top>`_
 
 General IV Information
 ===========
