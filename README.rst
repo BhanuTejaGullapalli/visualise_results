@@ -21,6 +21,7 @@ General IV Information
 .. image:: Generalized_model/subject_drug_data.png
 	:align: right
 
+Total Duration= 1431 Hours
 
 `back to top <#top>`_
 
