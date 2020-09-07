@@ -42,31 +42,31 @@ Prediction plots
 --------------------------
 
 
-.. image:: Generalized_model/pid5/5_0.png
+.. image:: Generalized_model/pid5/5_day0.png
 	:align: right
 
-.. image:: Generalized_model/pid5/5_1.png
+.. image:: Generalized_model/pid5/5_day1.png
 	:align: right
 
-.. image:: Generalized_model/pid5/5_2.png
+.. image:: Generalized_model/pid5/5_day2.png
 	:align: right
 
-.. image:: Generalized_model/pid5/5_3.png
+.. image:: Generalized_model/pid5/5_day3.png
 	:align: right
 
-.. image:: Generalized_model/pid5/5_4.png
+.. image:: Generalized_model/pid5/5_day4.png
 	:align: right
 
-.. image:: Generalized_model/pid5/5_5.png
+.. image:: Generalized_model/pid5/5_day5.png
 	:align: right
 
-.. image:: Generalized_model/pid5/5_6.png
+.. image:: Generalized_model/pid5/5_day6.png
 	:align: right
 
-.. image:: Generalized_model/pid5/5_7.png
+.. image:: Generalized_model/pid5/5_day7.png
 	:align: right
 
-.. image:: Generalized_model/pid5/5_8.png
+.. image:: Generalized_model/pid5/5_day8.png
 	:align: right
 
 `back to top <#top>`_
@@ -93,22 +93,22 @@ Prediction plots
 --------------------------
 
 
-.. image:: Generalized_model/pid6/6_0.png
+.. image:: Generalized_model/pid6/6_day0.png
 	:align: right
 
-.. image:: Generalized_model/pid6/6_1.png
+.. image:: Generalized_model/pid6/6_day1.png
 	:align: right
 
-.. image:: Generalized_model/pid6/6_2.png
+.. image:: Generalized_model/pid6/6_day2.png
 	:align: right
 
-.. image:: Generalized_model/pid6/6_3.png
+.. image:: Generalized_model/pid6/6_day3.png
 	:align: right
 
-.. image:: Generalized_model/pid6/6_4.png
+.. image:: Generalized_model/pid6/6_day4.png
 	:align: right
 
-.. image:: Generalized_model/pid6/6_5.png
+.. image:: Generalized_model/pid6/6_day5.png
 	:align: right
 
 `back to top <#top>`_
@@ -132,19 +132,19 @@ Prediction plots
 --------------------------
 
 
-.. image:: Generalized_model/pid7/7_0.png
+.. image:: Generalized_model/pid7/7_day0.png
 	:align: right
 
-.. image:: Generalized_model/pid7/7_1.png
+.. image:: Generalized_model/pid7/7_day1.png
 	:align: right
 
-.. image:: Generalized_model/pid7/7_2.png
+.. image:: Generalized_model/pid7/7_day2.png
 	:align: right
 
-.. image:: Generalized_model/pid7/7_3.png
+.. image:: Generalized_model/pid7/7_day3.png
 	:align: right
 
-.. image:: Generalized_model/pid7/7_4.png
+.. image:: Generalized_model/pid7/7_day4.png
 	:align: right
 
 
@@ -171,19 +171,19 @@ Prediction plots
 --------------------------
 
 
-.. image:: Generalized_model/pid8/8_0.png
+.. image:: Generalized_model/pid8/8_day0.png
 	:align: right
 
-.. image:: Generalized_model/pid8/8_1.png
+.. image:: Generalized_model/pid8/8_day1.png
 	:align: right
 
-.. image:: Generalized_model/pid8/8_2.png
+.. image:: Generalized_model/pid8/8_day2.png
 	:align: right
 
-.. image:: Generalized_model/pid8/8_3.png
+.. image:: Generalized_model/pid8/8_day3.png
 	:align: right
 
-.. image:: Generalized_model/pid8/8_4.png
+.. image:: Generalized_model/pid8/8_day4.png
 	:align: right
 
 
@@ -209,13 +209,13 @@ Prediction plots
 --------------------------
 
 
-.. image:: Generalized_model/pid34/34_0.png
+.. image:: Generalized_model/pid34/34_day0.png
 	:align: right
 
-.. image:: Generalized_model/pid34/34_1.png
+.. image:: Generalized_model/pid34/34_day1.png
 	:align: right
 
-.. image:: Generalized_model/pid34/34_2.png
+.. image:: Generalized_model/pid34/34_day2.png
 	:align: right
 
 `back to top <#top>`_
@@ -243,13 +243,13 @@ Prediction plots
 --------------------------
 
 
-.. image:: Generalized_model/pid35/35_0.png
+.. image:: Generalized_model/pid35/35_day0.png
 	:align: right
 
-.. image:: Generalized_model/pid35/35_1.png
+.. image:: Generalized_model/pid35/35_day1.png
 	:align: right
 
-.. image:: Generalized_model/pid35/35_2.png
+.. image:: Generalized_model/pid35/35_day2.png
 	:align: right
 
 `back to top <#top>`_
@@ -278,16 +278,16 @@ Prediction plots
 --------------------------
 
 
-.. image:: Generalized_model/pid36/36_0.png
+.. image:: Generalized_model/pid36/36_day0.png
 	:align: right
 
-.. image:: Generalized_model/pid36/36_1.png
+.. image:: Generalized_model/pid36/36_day1.png
 	:align: right
 
-.. image:: Generalized_model/pid36/36_2.png
+.. image:: Generalized_model/pid36/36_day2.png
 	:align: right
 
-.. image:: Generalized_model/pid36/36_3.png
+.. image:: Generalized_model/pid36/36_day3.png
 	:align: right
 
 
