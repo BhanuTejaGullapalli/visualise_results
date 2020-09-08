@@ -501,13 +501,25 @@ Prediction plots
 .. image:: Generalized_model/pid23/23_day0.png
 	:align: right
 
+.. image:: Generalized_model/pid23/23_day0_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid23/23_day1.png
+	:align: right
+
+.. image:: Generalized_model/pid23/23_day1_interpretation.png
 	:align: right
 
 .. image:: Generalized_model/pid23/23_day2.png
 	:align: right
 
+.. image:: Generalized_model/pid23/23_day2_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid23/23_day3.png
+	:align: right
+
+.. image:: Generalized_model/pid23/23_day3_interpretation.png
 	:align: right
 
 `back to top <#top>`_
@@ -539,7 +551,15 @@ Prediction plots
 .. image:: Generalized_model/pid24/24_day1.png
 	:align: right
 
+
+.. image:: Generalized_model/pid24/24_day1_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid24/24_day2.png
+	:align: right
+
+
+.. image:: Generalized_model/pid24/24_day2_interpretation.png
 	:align: right
 
 
@@ -573,11 +593,23 @@ Prediction plots
 .. image:: Generalized_model/pid25/25_day0.png
 	:align: right
 
+.. image:: Generalized_model/pid25/25_day0_interpretation.png
+	:align: right
+
+
 .. image:: Generalized_model/pid25/25_day1.png
 	:align: right
 
+.. image:: Generalized_model/pid25/25_day1_interpretation.png
+	:align: right
+
+
 .. image:: Generalized_model/pid25/25_day2.png
 	:align: right
+
+.. image:: Generalized_model/pid25/25_day2_interpretation.png
+	:align: right
+
 
 
 
@@ -609,10 +641,19 @@ Prediction plots
 .. image:: Generalized_model/pid32/32_day0.png
 	:align: right
 
+.. image:: Generalized_model/pid32/32_day0_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid32/32_day1.png
 	:align: right
 
+.. image:: Generalized_model/pid32/32_day1_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid32/32_day2.png
+	:align: right
+
+.. image:: Generalized_model/pid32/32_day2_interpretation.png
 	:align: right
 
 
@@ -643,6 +684,9 @@ Prediction plots
 
 
 .. image:: Generalized_model/pid37/37_day0.png
+	:align: right
+
+.. image:: Generalized_model/pid37/37_day0_interpretation.png
 	:align: right
 
 
