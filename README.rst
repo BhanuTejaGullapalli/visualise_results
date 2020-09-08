@@ -90,11 +90,6 @@ Prediction  and interpretation plots
 .. image:: Generalized_model/pid5/5_day7_interpretation.png
 	:align: right
 
-.. image:: Generalized_model/pid5/5_day8.png
-	:align: right
-
-.. image:: Generalized_model/pid5/5_day8_interpretation.png
-	:align: right
 
 `back to top <#top>`_
 
@@ -123,19 +118,37 @@ Prediction plots
 .. image:: Generalized_model/pid6/6_day0.png
 	:align: right
 
+.. image:: Generalized_model/pid6/6_day0_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid6/6_day1.png
+	:align: right
+
+.. image:: Generalized_model/pid6/6_day1_interpretation.png
 	:align: right
 
 .. image:: Generalized_model/pid6/6_day2.png
 	:align: right
 
+.. image:: Generalized_model/pid6/6_day2_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid6/6_day3.png
+	:align: right
+
+.. image:: Generalized_model/pid6/6_day3_interpretation.png
 	:align: right
 
 .. image:: Generalized_model/pid6/6_day4.png
 	:align: right
 
+.. image:: Generalized_model/pid6/6_day4_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid6/6_day5.png
+	:align: right
+
+.. image:: Generalized_model/pid6/6_day5_interpretation.png
 	:align: right
 
 `back to top <#top>`_
@@ -162,16 +175,31 @@ Prediction plots
 .. image:: Generalized_model/pid7/7_day0.png
 	:align: right
 
+.. image:: Generalized_model/pid7/7_day0_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid7/7_day1.png
+	:align: right
+
+.. image:: Generalized_model/pid7/7_day1_interpretation.png
 	:align: right
 
 .. image:: Generalized_model/pid7/7_day2.png
 	:align: right
 
+.. image:: Generalized_model/pid7/7_day2_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid7/7_day3.png
 	:align: right
 
+.. image:: Generalized_model/pid7/7_day3_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid7/7_day4.png
+	:align: right
+
+.. image:: Generalized_model/pid7/7_day4_interpretation.png
 	:align: right
 
 
@@ -201,16 +229,31 @@ Prediction plots
 .. image:: Generalized_model/pid8/8_day0.png
 	:align: right
 
+.. image:: Generalized_model/pid8/8_day0_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid8/8_day1.png
+	:align: right
+
+.. image:: Generalized_model/pid8/8_day1_interpretation.png
 	:align: right
 
 .. image:: Generalized_model/pid8/8_day2.png
 	:align: right
 
+.. image:: Generalized_model/pid8/8_day2_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid8/8_day3.png
 	:align: right
 
+.. image:: Generalized_model/pid8/8_day3_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid8/8_day4.png
+	:align: right
+
+.. image:: Generalized_model/pid8/8_day4_interpretation.png
 	:align: right
 
 
@@ -239,10 +282,19 @@ Prediction plots
 .. image:: Generalized_model/pid34/34_day0.png
 	:align: right
 
+.. image:: Generalized_model/pid34/34_day0_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid34/34_day1.png
 	:align: right
 
+.. image:: Generalized_model/pid34/34_day1_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid34/34_day2.png
+	:align: right
+
+.. image:: Generalized_model/pid34/34_day2_interpretation.png
 	:align: right
 
 `back to top <#top>`_
@@ -273,10 +325,19 @@ Prediction plots
 .. image:: Generalized_model/pid35/35_day0.png
 	:align: right
 
+.. image:: Generalized_model/pid35/35_day0_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid35/35_day1.png
 	:align: right
 
+.. image:: Generalized_model/pid35/35_day1_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid35/35_day2.png
+	:align: right
+
+.. image:: Generalized_model/pid35/35_day2_interpretation.png
 	:align: right
 
 `back to top <#top>`_
@@ -308,13 +369,25 @@ Prediction plots
 .. image:: Generalized_model/pid36/36_day0.png
 	:align: right
 
+.. image:: Generalized_model/pid36/36_day0_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid36/36_day1.png
+	:align: right
+
+.. image:: Generalized_model/pid36/36_day1_interpretation.png
 	:align: right
 
 .. image:: Generalized_model/pid36/36_day2.png
 	:align: right
 
+.. image:: Generalized_model/pid36/36_day2_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid36/36_day3.png
+	:align: right
+
+.. image:: Generalized_model/pid36/36_day3_interpretation.png
 	:align: right
 
 
@@ -345,7 +418,13 @@ Prediction plots
 .. image:: Generalized_model/pid10/10_day0.png
 	:align: right
 
+.. image:: Generalized_model/pid10/10_day0_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid10/10_day1.png
+	:align: right
+
+.. image:: Generalized_model/pid10/10_day1_interpretation.png
 	:align: right
 
 
@@ -372,11 +451,22 @@ Pid 12
 Prediction plots
 --------------------------
 
+.. image:: Generalized_model/pid12/12_day0.png
+	:align: right
+
+.. image:: Generalized_model/pid12/12_day0_interpretation.png
+	:align: right
 
 .. image:: Generalized_model/pid12/12_day1.png
 	:align: right
 
+.. image:: Generalized_model/pid12/12_day1_interpretation.png
+	:align: right
+
 .. image:: Generalized_model/pid12/12_day2.png
+	:align: right
+
+.. image:: Generalized_model/pid12/12_day1_interpretation.png
 	:align: right
 
 
