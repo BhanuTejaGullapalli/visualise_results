@@ -451,12 +451,6 @@ Pid 12
 Prediction plots
 --------------------------
 
-.. image:: Generalized_model/pid12/12_day0.png
-	:align: right
-
-.. image:: Generalized_model/pid12/12_day0_interpretation.png
-	:align: right
-
 .. image:: Generalized_model/pid12/12_day1.png
 	:align: right
 
