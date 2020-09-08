@@ -729,6 +729,9 @@ Miscellaneous
 
 --------------------------
 
+.. image:: Generalized_model/interpretable_barplot.png
+	:align: right
+
 .. image:: Generalized_model/barplot_series_len.png
 	:align: right
 
