@@ -735,5 +735,38 @@ Miscellaneous
 .. image:: Generalized_model/barplot_series_len.png
 	:align: right
 
+`back to top <#top>`_
+
+Demographic Analysis
+===========
+
+History type
+--------------------------
+
+.. image:: Generalized_model/Demographics/History.png
+	:align: right
+
+.. image:: Generalized_model/Demographics/History_per_subject.png
+	:align: right
+
+Gender
+--------------------------
+
+.. image:: Generalized_model/Demographics/Gender.png
+	:align: right
+
+.. image:: Generalized_model/Demographics/Gender_per_subject.png
+	:align: right
+
+
+BMI
+--------------------------
+
+.. image:: Generalized_model/Demographics/BMI_classes.png
+	:align: right
+
+.. image:: Generalized_model/Demographics/BMI_population_group.png
+	:align: right
+
 
 `back to top <#top>`_
