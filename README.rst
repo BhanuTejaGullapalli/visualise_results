@@ -31,7 +31,7 @@ Statistical analysis
 Accelerometer
 --------------------------
 
-.. image:: Statistical_analysis/ACC/ACC_Energy.eps
+.. image:: Statistical_analysis/ACC/ACC_Energy.png
 	:align: right
 
 
