@@ -25,6 +25,16 @@ Total Duration= 1431 Hours
 
 `back to top <#top>`_
 
+Statistical analysis
+===========
+
+Accelerometer
+--------------------------
+
+.. image:: Statistical_analysis/ACC/ACC Energy.png
+	:align: right
+
+
 Model
 ===========
 
